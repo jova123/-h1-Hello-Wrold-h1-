@@ -8,7 +8,7 @@
     border: 1px solid black;
     border-radius: 5px;
     text-decoration: none;
-    color: white;
+    color: lightgray;
     background-color: black;
     text-transform: uppercase;
     font-family: helvetica;
@@ -44,7 +44,7 @@ LOL im a comment
 }
 
 .main-heading.really-large {
-	color: gray;
+	color: lightgray;
 }
 
 .really-large {
@@ -60,7 +60,7 @@ LOL im a comment
 }
 
 h1 {
-	color: gray;
+	color: lightgray;
 	background-color: black
 	text-align: center;
 	font-family: Comic
@@ -71,5 +71,5 @@ h2 {
 	font-family: Comic;
 }
 section {
-	color: gray
+	color: lightgray
 }
