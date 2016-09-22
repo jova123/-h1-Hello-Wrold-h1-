@@ -40,7 +40,10 @@ LOL im a comment
 }
 
 .main-image {
-	width: 100%;
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .main-heading.really-large {
