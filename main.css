@@ -28,8 +28,15 @@ LOL im a comment
 	border-color: white;
 }
 
-#main {
-	color: pink;
+#main a {
+	color: gray;
+	padding: 30px
+	background-color: black
+	border: 3px solid black;
+	border-radius: 6px
+	letter-spacing: 1.5px;
+	font-weight: bold;
+
 }
 
 .main-image {
@@ -37,7 +44,7 @@ LOL im a comment
 }
 
 .main-heading.really-large {
-	color: #000;
+	color: gray;
 }
 
 .really-large {
@@ -48,11 +55,21 @@ LOL im a comment
 	font-size: 72px;
 	text-transform: uppercase;
 	text-align: center;
-	font-family: Helvetica;
-	text-decoration: underline;
-	color: black;
+	font-family: Comic;
+	color: white;
 }
 
 h1 {
-	color: red;
+	color: gray;
+	background-color: black
+	text-align: center;
+	font-family: Comic
+}
+h2 {
+	color: gray
+	background-color: black
+	font-family: Comic;
+}
+section {
+	color: gray
 }
